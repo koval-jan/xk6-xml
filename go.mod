@@ -1,4 +1,4 @@
-module github.com/rammstein4o/xk6-xml
+module github.com/koval-jan/xk6-xml
 
 go 1.22
 

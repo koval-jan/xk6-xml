@@ -19,7 +19,7 @@ Then:
 
 2. Build the binary:
   ```shell
-  xk6 build --with github.com/rammstein4o/xk6-xml
+  xk6 build --with github.com/koval-jan/xk6-xml
   ```
 
 ## Example
