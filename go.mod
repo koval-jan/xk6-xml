@@ -6,7 +6,7 @@ toolchain go1.22.2
 
 require (
 	github.com/clbanning/mxj v1.8.4
-	go.k6.io/k6 v0.54.0
+	go.k6.io/k6 v0.50.0
 )
 
 require (
