@@ -5,21 +5,23 @@ go 1.22
 toolchain go1.22.2
 
 require (
+	github.com/antchfx/xmlquery v1.4.2
 	github.com/clbanning/mxj v1.8.4
 	go.k6.io/k6 v0.50.0
 )
 
 require (
+	github.com/antchfx/xpath v1.3.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/dlclark/regexp2 v1.11.4 // indirect
-	github.com/evanw/esbuild v0.24.0 // indirect
+	github.com/dop251/goja v0.0.0-20240220182346-e401ed450204 // indirect
 	github.com/fatih/color v1.18.0 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.4+incompatible // indirect
+	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/pprof v0.0.0-20241029010322-833c56d90c8e // indirect
 	github.com/google/uuid v1.6.0 // indirect
-	github.com/grafana/sobek v0.0.0-20241024150027-d91f02b05e9b // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.22.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
